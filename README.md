@@ -5,4 +5,4 @@
 giriş yaptığınızda google bilgileriyle giriş yapa bilirsiniz.
 her bir oda kendine sahip verileri tutar 
 
-# CHAT-APP
+
